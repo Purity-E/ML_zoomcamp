@@ -6,3 +6,8 @@ Creating and using apps has been one of the major ways in which companies are ad
 The objective of this project is to determine how successful an app will be.
 
 One of the ways to determine how successful an app is, is the user rating. This project will entail building a machine learning model that predicts the user rating an app will get. The best model will be the one that has the lowest Root Mean Squared Error of the predicted user rating and the actual user rating.
+
+HOW TO MANAGE DEPENDENCIES WITH PIPENV
+1. First install pipenv. Use: pip install pipenv
+2. Then install the dependencies. Use: pipenv install
+3. To activate virtual environment use: pipenv shell
