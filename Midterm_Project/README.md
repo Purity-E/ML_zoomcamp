@@ -1,4 +1,4 @@
-PROBLEM DECSRIPTION
+PROBLEM DESCRIPTION
 
 We are living in a digital world and this can be seen by the fact that more and more companies and organizations around the world are adopting digital techniques to help run their activities.
 Creating and using apps has been one of the major ways in which companies are adopting digital techniques. With more and more apps being made, the big question is; Will an app be successful after it has been made?
